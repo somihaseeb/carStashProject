@@ -9,7 +9,7 @@ public class carTester {
         newCar.doors = 7;
         newCar.model = "aventador";
 
-        System.out.println(newCar.color);
+        System.out.println(newCar.model);
 
     }
 }

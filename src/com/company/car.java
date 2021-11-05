@@ -1,10 +1,11 @@
 package com.company;
 
 public class car {
-    public String color;
-    public String model;
-    public int doors;
-    public String engineCapacity;
-    public String name;
+
+    String name;
+    int doors;
+    String engineCapacity;
+    String model;
+    String color;
 
 }
